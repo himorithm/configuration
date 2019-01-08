@@ -1,0 +1,7 @@
+logging:
+  level:
+    org:
+      springframework : INFO
+server:
+port: 8283
+message: I Get DEV ONLY Work
