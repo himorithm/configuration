@@ -2,3 +2,5 @@ logging:
   level:
     org:
       springframework : WARN
+server:
+  port: 8282
