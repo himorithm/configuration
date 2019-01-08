@@ -1,6 +1,6 @@
 logging:
   level:
     org:
-      springframework : WARN
+      springframework : INFO
 server:
   port: 8282
